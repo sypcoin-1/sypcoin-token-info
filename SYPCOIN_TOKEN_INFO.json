@@ -1,0 +1,7 @@
+{
+    "name": "SYPCoin",
+    "symbol": "SYR",
+    "decimals": 18,
+    "network": "Binance Smart Chain (BEP-20)",
+    "contract_address": "0x591be6Ff7E94dC795Ff5C449E2d43459C91529D8"
+}

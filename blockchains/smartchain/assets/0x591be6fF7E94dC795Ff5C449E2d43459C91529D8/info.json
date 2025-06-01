@@ -1,0 +1,8 @@
+{
+  "name": "SYPCoin",
+  "symbol": "SYR",
+  "decimals": 18,
+  "description": "SYPCoin is an experimental community-driven token created to simplify borderless transfers and support local trade.",
+  "website": "https://sypcoin.org",
+  "logo": "https://raw.githubusercontent.com/sypcoin-1/sypcoin-token-info/main/blockchains/smartchain/assets/0x591be6fF7E94dC795Ff5C449E2d43459C91529D8/logo.png"
+}
